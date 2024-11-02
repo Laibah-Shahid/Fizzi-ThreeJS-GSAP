@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Beneath"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Esse enim Lorem ut eu culpa laboris sit occaecat irure. Ad do enim duis in mollit minim laborum aliquip culpa qui. Mollit amet eu culpa sit est quis non laborum duis velit anim tempor amet."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
